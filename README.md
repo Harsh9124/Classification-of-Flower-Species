@@ -1,0 +1,1 @@
+This project implements a Support Vector Machine (SVM) model to classify species of flowers based on the famous Iris dataset. It utilizes machine learning techniques to predict the species of iris flowers based on their sepal and petal measurements.
